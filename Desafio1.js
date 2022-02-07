@@ -1,6 +1,6 @@
 //Tarefa de média - Gabriel Rodrigo
 
-function media (array){
+function media (){
 
     let sum = 0;
     
